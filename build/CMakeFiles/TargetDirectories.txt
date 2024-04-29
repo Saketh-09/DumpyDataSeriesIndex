@@ -1,0 +1,3 @@
+/mnt/d/Dumpy-main 2/Dumpy-main 2/build/CMakeFiles/Dumpy.dir
+/mnt/d/Dumpy-main 2/Dumpy-main 2/build/CMakeFiles/edit_cache.dir
+/mnt/d/Dumpy-main 2/Dumpy-main 2/build/CMakeFiles/rebuild_cache.dir
